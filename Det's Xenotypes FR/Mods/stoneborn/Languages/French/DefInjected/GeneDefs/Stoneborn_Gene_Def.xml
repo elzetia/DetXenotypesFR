@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<DV_NarrowMemory.label>mémoire courte</DV_NarrowMemory.label>
+<DV_NarrowMemory.labelShortAdj>mémoire courte</DV_NarrowMemory.labelShortAdj>
+<DV_NarrowMemory.description>Les porteurs de ce gène ont un lobe temporal réduit. Cela rend les événements plus difficiles à se rappeler, ce qui les rend plus susceptibles d'oublier à la fois les bonnes et les mauvaises choses; cela augmente également généralement leur taux de perte de compétences.</DV_NarrowMemory.description>
+
+<DV_BushyEyebrows.label>sourcils touffus</DV_BushyEyebrows.label>
+<DV_BushyEyebrows.description>Les porteurs de ce gène ont des sourcils anormalement épais et luxuriants.</DV_BushyEyebrows.description>
+
+<DV_Stonecall.label>appel de pierre</DV_Stonecall.label>
+<DV_Stonecall.description>Les porteurs de ce gène possèdent un organe spécial caché près de leurs cordes vocales, ce qui leur permet d'émettre un appel de pierre fort et inspirant pour améliorer leurs vitesses d'exploitation minière et de construction.</DV_Stonecall.description>
+
+<DV_MightyLiver.label>foie puissant</DV_MightyLiver.label>
+<DV_MightyLiver.labelShortAdj>foie puissant</DV_MightyLiver.labelShortAdj>
+<DV_MightyLiver.description>Les porteurs de ce gène développent un foie exceptionnellement robuste qui leur permet de filtrer mieux les produits chimiques toxiques dans leur sang. Cela les rend immunisés contre les dommages internes au foie, notamment la cirrhose.</DV_MightyLiver.description>
+
+<DV_LifespanLong.label>longue durée de vie</DV_LifespanLong.label>
+<DV_LifespanLong.labelShortAdj>longue durée de vie</DV_LifespanLong.labelShortAdj>
+<DV_LifespanLong.description>Les porteurs de ce gène ont des cellules qui vieillissent plus lentement et perdent leurs fonctions beaucoup plus tard dans la vie, ce qui leur permet de vivre plus longtemps.</DV_LifespanLong.description>
+
+<DV_Undergrounder.label>troglodyte</DV_Undergrounder.label>
+<DV_Undergrounder.labelShortAdj>troglodyte</DV_Undergrounder.labelShortAdj>
+<DV_Undergrounder.description>Les porteurs de ce gène sont plus habitués à vivre dans des grottes et sous les montagnes.</DV_Undergrounder.description>
+
+<DV_Aggression_Irascible.label>irascible</DV_Aggression_Irascible.label>
+<DV_Aggression_Irascible.description>Les porteurs de ce gène sont têtus et snobs. Ils sont beaucoup plus susceptibles de provoquer des bagarres pour rien.</DV_Aggression_Irascible.description>
+
+</LanguageData>
+    

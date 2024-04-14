@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<loadFolders>
+	<v1.4>
+		<li>/</li>
+		<li IfModActive="det.avaloi">Mods/avaloi</li>
+		<li IfModActive="det.venators">Mods/venators</li>
+		<li IfModActive="det.stoneborn">Mods/stoneborn</li>
+		<li IfModActive="det.boglegs">Mods/boglegs</li>
+	</v1.4>
+
+	<v1.5>
+		<li>/</li>
+		<li IfModActive="det.avaloi">Mods/avaloi</li>
+		<li IfModActive="det.venators">Mods/venators</li>
+		<li IfModActive="det.stoneborn">Mods/stoneborn</li>
+		<li IfModActive="det.boglegs">Mods/boglegs</li>
+	</v1.5>
+
+</loadFolders>

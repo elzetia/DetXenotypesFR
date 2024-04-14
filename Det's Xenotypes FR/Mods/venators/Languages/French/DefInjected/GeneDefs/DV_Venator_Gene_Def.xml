@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DV_Farsighted.label>myope</DV_Farsighted.label>
+  <DV_Farsighted.description>Les porteurs de ce gène ont des yeux adaptés qui voient bien à longue distance, presque comme des jumelles naturelles. Bien que leur précision de tir soit accrue à longue distance, ils ont du mal avec les rencontres à courte portée et ont du mal à se concentrer sur les objets proches.</DV_Farsighted.description>
+
+  <DV_HunterInstincts.label>instinct de chasseur</DV_HunterInstincts.label>
+  <DV_HunterInstincts.description>Les porteurs de ce gène sont génétiquement plus disposés à la chasse et à la boucherie d'animaux sauvages, ce qui leur permet de récupérer plus de viande d'un cadavre et de le faire plus rapidement également.</DV_HunterInstincts.description>
+
+  <DV_ParalyzingFangs.label>crocs paralysants</DV_ParalyzingFangs.label>
+  <DV_ParalyzingFangs.description>Les porteurs de ce gène ont un ensemble unique de glandes produisant du venin près de leur mâchoire qui se connectent à leurs crocs; sur commande, ils peuvent libérer un neurotoxine dans les cibles qu'ils mordent, les paralysant temporairement.</DV_ParalyzingFangs.description>
+
+  <DV_FacePlating.label>plaques faciales</DV_FacePlating.label>
+  <DV_FacePlating.labelShortAdj>plaqué</DV_FacePlating.labelShortAdj>
+  <DV_FacePlating.description>Les porteurs de ce gène développent des plaques faciales dures comme des os qui offrent une certaine protection contre les armes légères et les armes.</DV_FacePlating.description>
+
+  <DV_Ears_Downturned.label>oreilles allongées</DV_Ears_Downturned.label>
+  <DV_Ears_Downturned.description>Les porteurs de ce gène ont des oreilles allongées qui peuvent pousser de différentes manières.</DV_Ears_Downturned.description>
+
+  <Skin_RedGray.label>peau rouge poussiéreuse</Skin_RedGray.label>
+  <Skin_RedGray.labelShortAdj>rouge</Skin_RedGray.labelShortAdj>
+  <Skin_RedGray.description>Les porteurs de ce gène produisent un pigment qui donne à leur peau une couleur rouge poussiéreuse.</Skin_RedGray.description>
+
+  <Skin_BlueGray.label>peau bleue poussiéreuse</Skin_BlueGray.label>
+  <Skin_BlueGray.labelShortAdj>bleue</Skin_BlueGray.labelShortAdj>
+  <Skin_BlueGray.description>Les porteurs de ce gène produisent un pigment qui donne à leur peau une couleur bleue poussiéreuse.</Skin_BlueGray.description>
+
+  <Skin_PurpleGray.label>peau violette poussiéreuse</Skin_PurpleGray.label>
+  <Skin_PurpleGray.labelShortAdj>violet</Skin_PurpleGray.labelShortAdj>
+  <Skin_PurpleGray.description>Les porteurs de ce gène produisent un pigment qui donne à leur peau une couleur violette poussiéreuse.</Skin_PurpleGray.description>
+
+  <Skin_YellowGray.label>peau jaune poussiéreuse</Skin_YellowGray.label>
+  <Skin_YellowGray.labelShortAdj>jaune</Skin_YellowGray.labelShortAdj>
+  <Skin_YellowGray.description>Les porteurs de ce gène produisent un pigment qui donne à leur peau une couleur jaune poussiéreuse.</Skin_YellowGray.description>
+
+  <Skin_BrownGray.label>peau brune poussiéreuse</Skin_BrownGray.label>
+  <Skin_BrownGray.labelShortAdj>brune</Skin_BrownGray.labelShortAdj>
+  <Skin_BrownGray.description>Les porteurs de ce gène produisent un pigment qui donne à leur peau une couleur brune poussiéreuse.</Skin_BrownGray.description>
+</LanguageData>

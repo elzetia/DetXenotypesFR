@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <DV_ParalyzingVenom.label>paralysé</DV_ParalyzingVenom.label>
+  <DV_ParalyzingVenom.description>Paralysie causée par le venin du venator. Non mortel.</DV_ParalyzingVenom.description>
+
+  <DV_ParalyzingBite.label>morsure toxique</DV_ParalyzingBite.label>
+  <DV_ParalyzingBite.description>Le venin neurotoxique injecté par cette morsure paralyse la cible, l'empêchant de bouger pendant un court instant.</DV_ParalyzingBite.description>
+</LanguageData>

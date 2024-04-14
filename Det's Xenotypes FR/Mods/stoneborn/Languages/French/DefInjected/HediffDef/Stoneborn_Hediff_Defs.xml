@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <DV_MightyLiverHediff.label>foie puissant</DV_MightyLiverHediff.label>
+    <DV_MightyLiverHediff.description>Une adaptation du foie qui améliore ses capacités de filtration, éliminant ainsi le risque de cirrhose.</DV_MightyLiverHediff.description>
+
+    <DV_StonecallBuff.label>appel de pierre</DV_StonecallBuff.label>
+    <DV_StonecallBuff.description>Les vitesses de construction et d'exploitation minière de cette personne sont augmentées grâce à l'utilisation de l'aptitude d'appel de pierre.</DV_StonecallBuff.description>
+
+    <DV_Stonecall.label>appel de pierre</DV_Stonecall.label>
+    <DV_Stonecall.description>Avec un puissant appel de guerre, augmentez les vitesses d'exploitation minière et de construction du lanceur.</DV_Stonecall.description>
+
+</LanguageData>
+   

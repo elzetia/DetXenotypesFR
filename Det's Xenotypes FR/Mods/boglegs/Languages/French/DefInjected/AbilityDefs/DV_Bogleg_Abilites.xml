@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<DV_MuckSpit.label>crachat de boue</DV_MuckSpit.label>
+	<DV_MuckSpit.description>Projetez une boue dégoûtante sur une zone qui entrave le mouvement des ennemis.</DV_MuckSpit.description>
+
+	<DV_Proj_Muck.label>boue</DV_Proj_Muck.label>
+</LanguageData>

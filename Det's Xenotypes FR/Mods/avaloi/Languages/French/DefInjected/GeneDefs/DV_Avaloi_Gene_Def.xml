@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DV_ToxResist_Terrible.label>faiblesse toxique</DV_ToxResist_Terrible.label>
+  <DV_ToxResist_Terrible.labelShortAdj>absorbant</DV_ToxResist_Terrible.labelShortAdj>
+  <DV_ToxResist_Terrible.description>Les porteurs de ce gène sont plus faibles face aux toxines environnementales. Leur peau et leurs poumons absorbent les gaz toxiques et sont plus endommagés par les gaz toxiques, les terrains pollués et les retombées toxiques. Ils sont également plus rapidement exposés aux odeurs de pourriture.</DV_ToxResist_Terrible.description>
+
+  <DV_PsychicInebriation.label>ivresse psychique</DV_PsychicInebriation.label>
+  <DV_PsychicInebriation.labelShortAdj>absorbant</DV_PsychicInebriation.labelShortAdj>
+  <DV_PsychicInebriation.description>Les porteurs de ce gène forment des voies neuronales uniques qui leur permettent d'augmenter leur sensibilité psychique en consommant des boissons fermentées, principalement de la bière et d'autres alcools.</DV_PsychicInebriation.description>
+  <DV_PsychicInebriation.customEffectDescriptions.0>La sensibilité psychique augmente avec le degré d'ébriété. </DV_PsychicInebriation.customEffectDescriptions.0>
+
+  <DV_Head_Avaloi.label>tête à trois yeux</DV_Head_Avaloi.label>
+  <DV_Head_Avaloi.labelShortAdj>absorbant</DV_Head_Avaloi.labelShortAdj>
+  <DV_Head_Avaloi.description>Les porteurs de ce gène ont une tête lisse avec 2 yeux normaux et un troisième œil, moins utile, sur leur front.</DV_Head_Avaloi.description>
+
+  <DV_Coral_Beards.label>barbes coralliennes</DV_Coral_Beards.label>
+  <DV_Coral_Beards.labelShortAdj>absorbant</DV_Coral_Beards.labelShortAdj>
+  <DV_Coral_Beards.description>Les porteurs de ce gène développent des appendices ressemblant à des barbes sur leurs joues, qui peuvent présenter divers motifs et formes.</DV_Coral_Beards.description>
+
+  <DV_Coral_Antlers.label>cornes coralliennes</DV_Coral_Antlers.label>
+  <DV_Coral_Antlers.labelShortAdj>absorbant</DV_Coral_Antlers.labelShortAdj>
+  <DV_Coral_Antlers.description>Les porteurs de ce gène développent des cornes charnues sur le dessus de leur tête, qui peuvent présenter divers motifs et formes.</DV_Coral_Antlers.description>
+
+  <DV_AvaloiHairColors.label>couleurs vives des cheveux</DV_AvaloiHairColors.label>
+  <DV_AvaloiHairColors.labelShortAdj>cheveux vifs</DV_AvaloiHairColors.labelShortAdj>
+  <DV_AvaloiHairColors.description>Les porteurs de ce gène produisent un ensemble unique de pigments qui peuvent colorer leurs cheveux dans une gamme de différentes teintes pastel.</DV_AvaloiHairColors.description>
+
+  <Skin_SoftPink.label>peau douce rose</Skin_SoftPink.label>
+  <Skin_SoftPink.labelShortAdj>rose</Skin_SoftPink.labelShortAdj>
+  <Skin_SoftPink.description>Les porteurs de ce gène ont une peau douce rose et agréable au toucher.</Skin_SoftPink.description>
+
+  <Skin_SoftRed.label>peau douce rouge</Skin_SoftRed.label>
+  <Skin_SoftRed.labelShortAdj>rouge</Skin_SoftRed.labelShortAdj>
+  <Skin_SoftRed.description>Les porteurs de ce gène ont une peau douce rouge, qui donne une impression chaleureuse et accueillante.</Skin_SoftRed.description>
+
+  <Skin_SoftBlue.label>peau douce bleue</Skin_SoftBlue.label>
+  <Skin_SoftBlue.labelShortAdj>bleue</Skin_SoftBlue.labelShortAdj>
+  <Skin_SoftBlue.description>Les porteurs de ce gène ont une peau douce bleu, évoquant la sérénité et la tranquillité.</Skin_SoftBlue.description>
+
+  <Skin_SoftGreen.label>peau douce verte</Skin_SoftGreen.label>
+  <Skin_SoftGreen.labelShortAdj>verte</Skin_SoftGreen.labelShortAdj>
+  <Skin_SoftGreen.description>Les porteurs de ce gène ont une peau douce vert, rappelant la nature et la fraîcheur de la verdure.</Skin_SoftGreen.description>
+
+  <Skin_SoftYellow.label>peau douce jaune</Skin_SoftYellow.label>
+  <Skin_SoftYellow.labelShortAdj>jaune</Skin_SoftYellow.labelShortAdj>
+  <Skin_SoftYellow.description>Les porteurs de ce gène ont une peau douce jaune, rayonnant de vitalité et de bonne humeur.</Skin_SoftYellow.description>
+
+  <Hair_PaleOrange.label>cheveux orange pâle</Hair_PaleOrange.label>
+
+  <Hair_PaleGreen.label>cheveux verts pâles</Hair_PaleGreen.label>
+
+  <Hair_PaleBlue.label>cheveux bleus pâles</Hair_PaleBlue.label>
+
+  <Hair_PaleMagenta.label>cheveux magenta pâles</Hair_PaleMagenta.label>
+
+  <Hair_PalePurple.label>cheveux violets pâles</Hair_PalePurple.label>
+
+</LanguageData>

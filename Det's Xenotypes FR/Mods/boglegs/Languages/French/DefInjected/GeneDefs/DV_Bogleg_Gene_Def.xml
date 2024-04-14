@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <DV_IntimidatingPresence.label>présence intimidante</DV_IntimidatingPresence.label>
+  <DV_IntimidatingPresence.description>Les porteurs de ce gène ont des épaules larges et une structure faciale menaçante qui rend les esclaves plus enclins à les écouter.</DV_IntimidatingPresence.description>
+
+  <DV_Silvertongued.label>langue déliée</DV_Silvertongued.label>
+  <DV_Silvertongued.description>Les porteurs de ce gène ont un style de parole naturellement persuasif et éloquent, ce qui les rend meilleurs pour convaincre les gens et marchander.</DV_Silvertongued.description>
+
+  <DV_FatStorage.label>stockage de graisse</DV_FatStorage.label>
+  <DV_FatStorage.description>Les porteurs développent de grands sacs de stockage de graisse supplémentaire à travers leur corps, ce qui peut stocker des nutriments et des lipides. En plus de les rendre plus résistants aux dommages contondants et plus lents, cela permet aux porteurs de brûler ces nutriments pour prévenir la famine.</DV_FatStorage.description>
+
+  <DV_MuckSpit.label>crachat de boue</DV_MuckSpit.label>
+  <DV_MuckSpit.description>Les porteurs brassent une boue dégoûtante et collante dans une poche près de leur estomac, ainsi que des sacs d'air pressurisés spécialisés dans leur bouche. Ils peuvent cracher cette boue sur une zone, où elle ralentira et entravera les ennemis qui marchent dessus.</DV_MuckSpit.description>
+
+  <DV_Jaw_FatSac.label>sac à gras</DV_Jaw_FatSac.label>
+  <DV_Jaw_FatSac.description>Les porteurs de ce gène développent un gros sac de graisse supplémentaire entre leur gorge, leur mâchoire et leurs clavicules.</DV_Jaw_FatSac.description>
+
+  <DV_Materialistic.label>materialiste</DV_Materialistic.label>
+  <DV_Materialistic.labelShortAdj>avide</DV_Materialistic.labelShortAdj>
+  <DV_Materialistic.description>Les porteurs de ce gène sont agaçants de par leur avidité et leur jalousie envers les autres. Ils veulent toujours plus et de meilleurs biens, et seront tristes s'ils ne les obtiennent pas.</DV_Materialistic.description>
+
+  <DV_Nose_Whiskers.label>barbillons</DV_Nose_Whiskers.label>
+  <DV_Nose_Whiskers.description>Les porteurs de ce gène développent des appendices charnus ressemblant à des barbillons sur leur lèvre supérieure.</DV_Nose_Whiskers.description>
+
+  <Skin_GreenMuddy.label>peau verte</Skin_GreenMuddy.label>
+  <Skin_GreenMuddy.labelShortAdj>verte</Skin_GreenMuddy.labelShortAdj>
+  <Skin_GreenMuddy.description>Les porteurs de ce gène produisent un pigment qui donne à leur peau boueuse une couleur verte.</Skin_GreenMuddy.description>
+
+  <Skin_YellowMuddy.label>peau boueuse jaune</Skin_YellowMuddy.label>
+  <Skin_YellowMuddy.labelShortAdj>jaune</Skin_YellowMuddy.labelShortAdj>
+  <Skin_YellowMuddy.description>Les porteurs de ce gène produisent un pigment qui donne à leur peau boueuse une couleur jaune.</Skin_YellowMuddy.description>
+
+  <Skin_BrownMuddy.label>peau boueuse brune</Skin_BrownMuddy.label>
+  <Skin_BrownMuddy.labelShortAdj>brune</Skin_BrownMuddy.labelShortAdj>
+  <Skin_BrownMuddy.description>Les porteurs de ce gène produisent un pigment qui donne à leur peau boueuse une couleur brune.</Skin_BrownMuddy.description>
+
+  <Skin_CyanMuddy.label>peau boueuse cyan</Skin_CyanMuddy.label>
+  <Skin_CyanMuddy.labelShortAdj>cyan</Skin_CyanMuddy.labelShortAdj>
+  <Skin_CyanMuddy.description>Les porteurs de ce gène produisent un pigment qui donne à leur peau boueuse une couleur cyan.</Skin_CyanMuddy.description>
+
+  <Skin_OliveMuddy.label>peau boueuse olive</Skin_OliveMuddy.label>
+  <Skin_OliveMuddy.labelShortAdj>olive</Skin_OliveMuddy.labelShortAdj>
+  <Skin_OliveMuddy.description>Les porteurs de ce gène produisent un pigment qui donne à leur peau boueuse une couleur olive.</Skin_OliveMuddy.description>
+
+
+   </LanguageData>
